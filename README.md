@@ -1,2 +1,7 @@
-# watchKey
-Use Electron to globally listen to trigger events on the keyboard, undeveloped version
+# 键盘的全局监听
+## 简介
+1. 监听键盘事件，包括按键按下，按键抬起，按键长按等。
+## 安装
+```
+npm i uiohook-napi
+```
